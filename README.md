@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+通用标准字幕组，简称USTD字幕组(Universal Standard Subtitle Group, USTDSub, USTD)，成立于2020年9月28日。
+[GitHub主页](https://github.com/USTDSub/USTDSub)
+
 <!--
 **USTDSub/USTDSub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
